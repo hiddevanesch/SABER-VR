@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree type="Call Tree" threadSelection="All thread groups" threadStatus="Runnable" aggregationLevel="Classes">
+  <node leaf="false" class="java.awt.EventDispatchThread" time="1288905" count="3" selfTime="1175374" lineNumber="-1" percent="56.2">
+    <node leaf="false" class="CH.ifa.draw.util.PaletteLayout" time="72766" count="25" selfTime="866" lineNumber="-1" percent="3.2">
+      <node leaf="false" class="java.awt.Component" time="70806" count="616" selfTime="70240" lineNumber="-1" percent="3.1">
+        <node leaf="false" class="CH.ifa.draw.standard.ToolButton" time="381" count="104" selfTime="115" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="CH.ifa.draw.util.PaletteIcon" time="173" count="208" selfTime="173" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="java.awt.Dimension" time="93" count="104" selfTime="93" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.util.Filler" time="185" count="16" selfTime="8" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="java.awt.Dimension" time="177" count="16" selfTime="177" lineNumber="-1" percent="0.0"/>
+        </node>
+      </node>
+      <node leaf="true" class="java.awt.Container" time="705" count="298" selfTime="705" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="java.lang.Math" time="361" count="128" selfTime="361" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="java.awt.Dimension" time="28" count="13" selfTime="28" lineNumber="-1" percent="0.0"/>
+    </node>
+    <node leaf="false" class="CH.ifa.draw.standard.StandardDrawingView" time="20394" count="174" selfTime="983" lineNumber="-1" percent="0.9">
+      <node leaf="false" class="CH.ifa.draw.standard.BufferedUpdateStrategy" time="18495" count="11" selfTime="9368" lineNumber="-1" percent="0.8">
+        <node leaf="true" class="java.awt.Graphics" time="6375" count="11" selfTime="6375" lineNumber="-1" percent="0.3"/>
+        <node leaf="false" class="CH.ifa.draw.standard.StandardDrawingView" time="2141" count="11" selfTime="1018" lineNumber="-1" percent="0.1">
+          <node leaf="true" class="java.awt.Graphics" time="645" count="22" selfTime="645" lineNumber="-1" percent="0.0"/>
+          <node leaf="false" class="CH.ifa.draw.standard.CompositeFigure" time="423" count="11" selfTime="338" lineNumber="-1" percent="0.0">
+            <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="85" count="22" selfTime="51" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="java.util.Vector" time="31" count="11" selfTime="31" lineNumber="-1" percent="0.0"/>
+              <node leaf="true" class="java.util.Enumeration" time="3" count="11" selfTime="3" lineNumber="-1" percent="0.0"/>
+            </node>
+          </node>
+          <node leaf="true" class="java.util.Vector" time="36" count="15" selfTime="36" lineNumber="-1" percent="0.0"/>
+          <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="17" count="8" selfTime="10" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.util.Vector" time="6" count="4" selfTime="6" lineNumber="-1" percent="0.0"/>
+            <node leaf="true" class="java.util.Enumeration" time="1" count="4" selfTime="1" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="true" class="java.util.Enumeration" time="2" count="11" selfTime="2" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="true" class="java.awt.Image" time="611" count="11" selfTime="611" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="true" class="java.awt.event.MouseEvent" time="786" count="282" selfTime="786" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="CH.ifa.draw.applet.DrawApplet" time="95" count="141" selfTime="95" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="35" count="141" selfTime="35" lineNumber="-1" percent="0.0"/>
+    </node>
+    <node leaf="false" class="CH.ifa.draw.util.PaletteButton" time="19674" count="75" selfTime="248" lineNumber="-1" percent="0.9">
+      <node leaf="false" class="CH.ifa.draw.standard.ToolButton" time="11717" count="134" selfTime="293" lineNumber="-1" percent="0.5">
+        <node leaf="true" class="java.awt.Graphics" time="11409" count="67" selfTime="11409" lineNumber="-1" percent="0.5"/>
+        <node leaf="true" class="CH.ifa.draw.util.PaletteIcon" time="15" count="134" selfTime="15" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="false" class="CH.ifa.draw.applet.DrawApplet" time="7709" count="6" selfTime="7705" lineNumber="-1" percent="0.3">
+        <node leaf="true" class="CH.ifa.draw.standard.ToolButton" time="4" count="6" selfTime="4" lineNumber="-1" percent="0.0"/>
+      </node>
+    </node>
+    <node leaf="false" class="CH.ifa.draw.util.Filler" time="697" count="8" selfTime="385" lineNumber="-1" percent="0.0">
+      <node leaf="true" class="java.awt.Canvas" time="312" count="8" selfTime="312" lineNumber="-1" percent="0.0"/>
+    </node>
+  </node>
+  <node leaf="false" class="sun.applet.AppletPanel" time="1004483" count="6" selfTime="34990" lineNumber="-1" percent="43.8">
+    <node leaf="false" class="CH.ifa.draw.applet.DrawApplet" time="967565" count="8" selfTime="497969" lineNumber="-1" percent="42.2">
+      <node leaf="false" class="CH.ifa.draw.samples.javadraw.JavaDrawApplet" time="411503" count="12" selfTime="42838" lineNumber="-1" percent="17.9">
+        <node leaf="false" class="CH.ifa.draw.applet.DrawApplet" time="356349" count="104" selfTime="11569" lineNumber="-1" percent="15.5">
+          <node leaf="false" class="CH.ifa.draw.standard.ToolButton" time="341097" count="52" selfTime="63417" lineNumber="-1" percent="14.9">
+            <node leaf="false" class="CH.ifa.draw.util.Iconkit" time="274325" count="208" selfTime="3973" lineNumber="-1" percent="12.0">
+              <node leaf="true" class="java.net.URL" time="168474" count="156" selfTime="168474" lineNumber="-1" percent="7.3"/>
+              <node leaf="true" class="java.lang.Class" time="100163" count="156" selfTime="100163" lineNumber="-1" percent="4.4"/>
+              <node leaf="true" class="java.awt.Toolkit" time="1662" count="312" selfTime="1662" lineNumber="-1" percent="0.1"/>
+              <node leaf="true" class="java.lang.Object" time="53" count="156" selfTime="53" lineNumber="-1" percent="0.0"/>
+            </node>
+            <node leaf="true" class="java.awt.Canvas" time="3355" count="52" selfTime="3355" lineNumber="-1" percent="0.1"/>
+          </node>
+          <node leaf="true" class="java.util.StringTokenizer" time="1055" count="8" selfTime="1055" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="java.awt.Choice" time="1031" count="16" selfTime="1031" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="java.awt.Panel" time="474" count="36" selfTime="474" lineNumber="-1" percent="0.0"/>
+          <node leaf="false" class="CH.ifa.draw.util.Filler" time="430" count="8" selfTime="21" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.awt.Canvas" time="409" count="8" selfTime="409" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="false" class="CH.ifa.draw.util.CommandButton" time="400" count="16" selfTime="21" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.awt.Button" time="376" count="16" selfTime="376" lineNumber="-1" percent="0.0"/>
+            <node leaf="true" class="CH.ifa.draw.util.Command" time="3" count="16" selfTime="3" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="false" class="CH.ifa.draw.standard.SelectionTool" time="80" count="4" selfTime="4" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="76" count="4" selfTime="76" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="true" class="java.awt.Label" time="59" count="4" selfTime="59" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="java.awt.Button" time="47" count="16" selfTime="47" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="CH.ifa.draw.applet.DrawApplet$1" time="24" count="4" selfTime="24" lineNumber="-1" percent="0.0"/>
+          <node leaf="false" class="CH.ifa.draw.standard.DeleteCommand" time="22" count="4" selfTime="5" lineNumber="-1" percent="0.0">
+            <node leaf="false" class="CH.ifa.draw.standard.FigureTransferCommand" time="17" count="4" selfTime="7" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="CH.ifa.draw.util.Command" time="10" count="4" selfTime="10" lineNumber="-1" percent="0.0"/>
+            </node>
+          </node>
+          <node leaf="false" class="CH.ifa.draw.figures.GroupCommand" time="15" count="4" selfTime="7" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="CH.ifa.draw.util.Command" time="8" count="4" selfTime="8" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="false" class="CH.ifa.draw.standard.DuplicateCommand" time="15" count="4" selfTime="5" lineNumber="-1" percent="0.0">
+            <node leaf="false" class="CH.ifa.draw.standard.FigureTransferCommand" time="10" count="4" selfTime="3" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="CH.ifa.draw.util.Command" time="7" count="4" selfTime="7" lineNumber="-1" percent="0.0"/>
+            </node>
+          </node>
+          <node leaf="false" class="CH.ifa.draw.figures.UngroupCommand" time="12" count="4" selfTime="3" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="CH.ifa.draw.util.Command" time="9" count="4" selfTime="9" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="true" class="CH.ifa.draw.applet.DrawApplet$2" time="10" count="4" selfTime="10" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="CH.ifa.draw.applet.DrawApplet$3" time="9" count="4" selfTime="9" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="true" class="java.awt.Panel" time="6026" count="52" selfTime="6026" lineNumber="-1" percent="0.3"/>
+        <node leaf="false" class="CH.ifa.draw.figures.TextFigure" time="3807" count="9" selfTime="1055" lineNumber="-1" percent="0.2">
+          <node leaf="false" class="CH.ifa.draw.figures.AttributeFigure" time="2670" count="16" selfTime="2364" lineNumber="-1" percent="0.1">
+            <node leaf="false" class="CH.ifa.draw.figures.FigureAttributes" time="264" count="16" selfTime="41" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="java.util.Hashtable" time="223" count="16" selfTime="223" lineNumber="-1" percent="0.0"/>
+            </node>
+            <node leaf="true" class="CH.ifa.draw.standard.AbstractFigure" time="23" count="8" selfTime="23" lineNumber="-1" percent="0.0"/>
+            <node leaf="false" class="CH.ifa.draw.figures.TextFigure" time="19" count="8" selfTime="10" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="CH.ifa.draw.standard.AbstractFigure" time="9" count="8" selfTime="9" lineNumber="-1" percent="0.0"/>
+            </node>
+          </node>
+          <node leaf="false" class="CH.ifa.draw.util.ColorMap" time="41" count="8" selfTime="22" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.lang.String" time="19" count="120" selfTime="19" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="true" class="java.awt.Font" time="22" count="8" selfTime="22" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="java.lang.String" time="19" count="32" selfTime="19" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.LineConnection" time="1116" count="4" selfTime="1012" lineNumber="-1" percent="0.0">
+          <node leaf="false" class="CH.ifa.draw.figures.PolyLineFigure" time="84" count="12" selfTime="7" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.util.Vector" time="64" count="4" selfTime="64" lineNumber="-1" percent="0.0"/>
+            <node leaf="true" class="CH.ifa.draw.standard.AbstractFigure" time="13" count="4" selfTime="13" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="true" class="CH.ifa.draw.figures.ArrowTip" time="20" count="8" selfTime="20" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.RectangleFigure" time="388" count="4" selfTime="256" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="java.awt.Rectangle" time="87" count="8" selfTime="87" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="java.awt.Point" time="28" count="8" selfTime="28" lineNumber="-1" percent="0.0"/>
+          <node leaf="false" class="CH.ifa.draw.figures.AttributeFigure" time="17" count="4" selfTime="4" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="CH.ifa.draw.standard.AbstractFigure" time="13" count="4" selfTime="13" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.LineFigure" time="208" count="4" selfTime="16" lineNumber="-1" percent="0.0">
+          <node leaf="false" class="CH.ifa.draw.figures.PolyLineFigure" time="192" count="12" selfTime="24" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.util.Vector" time="121" count="12" selfTime="121" lineNumber="-1" percent="0.0"/>
+            <node leaf="true" class="java.awt.Point" time="25" count="8" selfTime="25" lineNumber="-1" percent="0.0"/>
+            <node leaf="true" class="CH.ifa.draw.standard.AbstractFigure" time="22" count="12" selfTime="22" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.ScribbleTool" time="208" count="4" selfTime="195" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="13" count="4" selfTime="13" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.ElbowConnection" time="104" count="4" selfTime="9" lineNumber="-1" percent="0.0">
+          <node leaf="false" class="CH.ifa.draw.figures.LineConnection" time="95" count="4" selfTime="8" lineNumber="-1" percent="0.0">
+            <node leaf="false" class="CH.ifa.draw.figures.PolyLineFigure" time="78" count="12" selfTime="5" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="CH.ifa.draw.standard.AbstractFigure" time="57" count="4" selfTime="57" lineNumber="-1" percent="0.0"/>
+              <node leaf="true" class="java.util.Vector" time="16" count="4" selfTime="16" lineNumber="-1" percent="0.0"/>
+            </node>
+            <node leaf="true" class="CH.ifa.draw.figures.ArrowTip" time="9" count="8" selfTime="9" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.samples.javadraw.BouncingDrawing" time="96" count="4" selfTime="11" lineNumber="-1" percent="0.0">
+          <node leaf="false" class="CH.ifa.draw.standard.StandardDrawing" time="85" count="4" selfTime="14" lineNumber="-1" percent="0.0">
+            <node leaf="false" class="CH.ifa.draw.standard.CompositeFigure" time="50" count="4" selfTime="11" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="java.util.Vector" time="25" count="4" selfTime="25" lineNumber="-1" percent="0.0"/>
+              <node leaf="true" class="CH.ifa.draw.standard.AbstractFigure" time="14" count="4" selfTime="14" lineNumber="-1" percent="0.0"/>
+            </node>
+            <node leaf="true" class="java.util.Vector" time="21" count="4" selfTime="21" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.EllipseFigure" time="77" count="4" selfTime="21" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="java.awt.Rectangle" time="28" count="8" selfTime="28" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="java.awt.Point" time="15" count="8" selfTime="15" lineNumber="-1" percent="0.0"/>
+          <node leaf="false" class="CH.ifa.draw.figures.AttributeFigure" time="13" count="4" selfTime="3" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="CH.ifa.draw.standard.AbstractFigure" time="10" count="4" selfTime="10" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.RoundRectangleFigure" time="75" count="4" selfTime="27" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="java.awt.Rectangle" time="19" count="8" selfTime="19" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="java.awt.Point" time="15" count="8" selfTime="15" lineNumber="-1" percent="0.0"/>
+          <node leaf="false" class="CH.ifa.draw.figures.AttributeFigure" time="14" count="4" selfTime="3" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="CH.ifa.draw.standard.AbstractFigure" time="11" count="4" selfTime="11" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.standard.CreationTool" time="38" count="16" selfTime="10" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="28" count="16" selfTime="28" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.standard.ConnectionTool" time="28" count="8" selfTime="13" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="15" count="8" selfTime="15" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.ConnectedTextTool" time="27" count="4" selfTime="8" lineNumber="-1" percent="0.0">
+          <node leaf="false" class="CH.ifa.draw.figures.TextTool" time="19" count="4" selfTime="10" lineNumber="-1" percent="0.0">
+            <node leaf="false" class="CH.ifa.draw.standard.CreationTool" time="9" count="4" selfTime="1" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="8" count="4" selfTime="8" lineNumber="-1" percent="0.0"/>
+            </node>
+          </node>
+        </node>
+        <node leaf="true" class="java.awt.Button" time="26" count="8" selfTime="26" lineNumber="-1" percent="0.0"/>
+        <node leaf="false" class="CH.ifa.draw.contrib.PolygonTool" time="22" count="4" selfTime="11" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="11" count="4" selfTime="11" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.BorderTool" time="21" count="4" selfTime="7" lineNumber="-1" percent="0.0">
+          <node leaf="false" class="CH.ifa.draw.standard.ActionTool" time="14" count="4" selfTime="4" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="10" count="4" selfTime="10" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.figures.TextTool" time="19" count="4" selfTime="6" lineNumber="-1" percent="0.0">
+          <node leaf="false" class="CH.ifa.draw.standard.CreationTool" time="13" count="4" selfTime="4" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="9" count="4" selfTime="9" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.samples.javadraw.URLTool" time="19" count="4" selfTime="8" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="CH.ifa.draw.standard.AbstractTool" time="11" count="4" selfTime="11" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="true" class="CH.ifa.draw.samples.javadraw.JavaDrawApplet$1" time="8" count="4" selfTime="8" lineNumber="-1" percent="0.0"/>
+        <node leaf="true" class="CH.ifa.draw.figures.AttributeFigure" time="3" count="1" selfTime="3" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="false" class="CH.ifa.draw.standard.StandardDrawingView" time="39698" count="16" selfTime="6062" lineNumber="-1" percent="1.7">
+        <node leaf="false" class="CH.ifa.draw.applet.DrawApplet" time="27050" count="4" selfTime="1274" lineNumber="-1" percent="1.2">
+          <node leaf="true" class="java.awt.Choice" time="22419" count="16" selfTime="22419" lineNumber="-1" percent="1.0"/>
+          <node leaf="false" class="CH.ifa.draw.util.ColorMap" time="2022" count="8" selfTime="12" lineNumber="-1" percent="0.1">
+            <node leaf="true" class="java.awt.Color" time="2010" count="44" selfTime="2010" lineNumber="-1" percent="0.1"/>
+          </node>
+          <node leaf="false" class="CH.ifa.draw.figures.AttributeFigure" time="1302" count="20" selfTime="51" lineNumber="-1" percent="0.1">
+            <node leaf="false" class="CH.ifa.draw.figures.FigureAttributes" time="1208" count="28" selfTime="1180" lineNumber="-1" percent="0.1">
+              <node leaf="true" class="java.util.Hashtable" time="28" count="28" selfTime="28" lineNumber="-1" percent="0.0"/>
+            </node>
+            <node leaf="true" class="java.lang.Integer" time="38" count="3" selfTime="38" lineNumber="-1" percent="0.0"/>
+            <node leaf="true" class="java.awt.Color" time="5" count="1" selfTime="5" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="false" class="CH.ifa.draw.standard.StandardDrawingView" time="24" count="4" selfTime="3" lineNumber="-1" percent="0.0">
+            <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="21" count="4" selfTime="16" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="java.util.Vector" time="5" count="4" selfTime="5" lineNumber="-1" percent="0.0"/>
+            </node>
+          </node>
+          <node leaf="true" class="java.lang.Integer" time="5" count="4" selfTime="5" lineNumber="-1" percent="0.0"/>
+          <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="4" count="4" selfTime="1" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.util.Enumeration" time="3" count="4" selfTime="3" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="true" class="java.awt.Panel" time="6350" count="4" selfTime="6350" lineNumber="-1" percent="0.3"/>
+        <node leaf="false" class="CH.ifa.draw.standard.StandardDrawing" time="61" count="4" selfTime="1" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="java.util.Vector" time="60" count="4" selfTime="60" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="52" count="16" selfTime="32" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="java.util.Vector" time="18" count="8" selfTime="18" lineNumber="-1" percent="0.0"/>
+          <node leaf="true" class="java.util.Enumeration" time="2" count="8" selfTime="2" lineNumber="-1" percent="0.0"/>
+        </node>
+        <node leaf="true" class="CH.ifa.draw.standard.BufferedUpdateStrategy" time="45" count="4" selfTime="45" lineNumber="-1" percent="0.0"/>
+        <node leaf="true" class="java.util.Vector" time="27" count="8" selfTime="27" lineNumber="-1" percent="0.0"/>
+        <node leaf="true" class="java.awt.Dimension" time="23" count="8" selfTime="23" lineNumber="-1" percent="0.0"/>
+        <node leaf="false" class="CH.ifa.draw.standard.CompositeFigure" time="19" count="4" selfTime="3" lineNumber="-1" percent="0.0">
+          <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="16" count="4" selfTime="10" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.util.Vector" time="6" count="4" selfTime="6" lineNumber="-1" percent="0.0"/>
+          </node>
+        </node>
+        <node leaf="true" class="java.awt.Point" time="9" count="4" selfTime="9" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="true" class="java.applet.Applet" time="6138" count="3" selfTime="6138" lineNumber="-1" percent="0.3"/>
+      <node leaf="true" class="java.awt.Panel" time="3681" count="56" selfTime="3681" lineNumber="-1" percent="0.2"/>
+      <node leaf="false" class="CH.ifa.draw.util.CommandChoice" time="2605" count="172" selfTime="1487" lineNumber="-1" percent="0.1">
+        <node leaf="true" class="java.awt.Choice" time="745" count="16" selfTime="745" lineNumber="-1" percent="0.0"/>
+        <node leaf="true" class="java.util.Vector" time="343" count="172" selfTime="343" lineNumber="-1" percent="0.0"/>
+        <node leaf="true" class="CH.ifa.draw.util.Command" time="30" count="156" selfTime="30" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="false" class="CH.ifa.draw.util.Iconkit" time="2190" count="5" selfTime="1669" lineNumber="-1" percent="0.1">
+        <node leaf="true" class="java.util.Hashtable" time="461" count="4" selfTime="461" lineNumber="-1" percent="0.0"/>
+        <node leaf="true" class="java.util.Vector" time="60" count="4" selfTime="60" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="false" class="CH.ifa.draw.util.ColorMap" time="1432" count="377" selfTime="1398" lineNumber="-1" percent="0.1">
+        <node leaf="true" class="CH.ifa.draw.util.ColorEntry" time="20" count="15" selfTime="20" lineNumber="-1" percent="0.0"/>
+        <node leaf="true" class="java.awt.Color" time="14" count="48" selfTime="14" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="false" class="CH.ifa.draw.standard.AbstractTool" time="986" count="5" selfTime="33" lineNumber="-1" percent="0.0">
+        <node leaf="true" class="java.awt.Cursor" time="503" count="1" selfTime="503" lineNumber="-1" percent="0.0"/>
+        <node leaf="false" class="CH.ifa.draw.standard.StandardDrawingView" time="450" count="4" selfTime="6" lineNumber="-1" percent="0.0">
+          <node leaf="false" class="CH.ifa.draw.applet.DrawApplet" time="410" count="4" selfTime="13" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.awt.Choice" time="358" count="16" selfTime="358" lineNumber="-1" percent="0.0"/>
+            <node leaf="false" class="CH.ifa.draw.figures.AttributeFigure" time="14" count="20" selfTime="4" lineNumber="-1" percent="0.0">
+              <node leaf="false" class="CH.ifa.draw.figures.FigureAttributes" time="10" count="20" selfTime="6" lineNumber="-1" percent="0.0">
+                <node leaf="true" class="java.util.Hashtable" time="4" count="20" selfTime="4" lineNumber="-1" percent="0.0"/>
+              </node>
+            </node>
+            <node leaf="false" class="CH.ifa.draw.util.ColorMap" time="12" count="8" selfTime="6" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="java.awt.Color" time="6" count="44" selfTime="6" lineNumber="-1" percent="0.0"/>
+            </node>
+            <node leaf="false" class="CH.ifa.draw.standard.StandardDrawingView" time="10" count="4" selfTime="0" lineNumber="-1" percent="0.0">
+              <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="10" count="4" selfTime="7" lineNumber="-1" percent="0.0">
+                <node leaf="true" class="java.util.Vector" time="3" count="4" selfTime="3" lineNumber="-1" percent="0.0"/>
+              </node>
+            </node>
+            <node leaf="true" class="java.lang.Integer" time="2" count="4" selfTime="2" lineNumber="-1" percent="0.0"/>
+            <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="1" count="4" selfTime="0" lineNumber="-1" percent="0.0">
+              <node leaf="true" class="java.util.Enumeration" time="1" count="4" selfTime="1" lineNumber="-1" percent="0.0"/>
+            </node>
+          </node>
+          <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="21" count="8" selfTime="10" lineNumber="-1" percent="0.0">
+            <node leaf="true" class="java.util.Vector" time="10" count="4" selfTime="10" lineNumber="-1" percent="0.0"/>
+            <node leaf="true" class="java.util.Enumeration" time="1" count="4" selfTime="1" lineNumber="-1" percent="0.0"/>
+          </node>
+          <node leaf="true" class="java.util.Vector" time="13" count="4" selfTime="13" lineNumber="-1" percent="0.0"/>
+        </node>
+      </node>
+      <node leaf="false" class="CH.ifa.draw.standard.ChangeAttributeCommand" time="306" count="156" selfTime="116" lineNumber="-1" percent="0.0">
+        <node leaf="true" class="CH.ifa.draw.util.Command" time="190" count="156" selfTime="190" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="true" class="java.awt.Toolkit" time="250" count="8" selfTime="250" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="java.lang.Integer" time="210" count="20" selfTime="210" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="CH.ifa.draw.util.PaletteLayout" time="206" count="12" selfTime="206" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="java.awt.Label" time="173" count="16" selfTime="173" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="java.awt.Point" time="103" count="12" selfTime="103" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="CH.ifa.draw.util.PaletteButton" time="28" count="5" selfTime="28" lineNumber="-1" percent="0.0"/>
+      <node leaf="false" class="CH.ifa.draw.util.Filler" time="27" count="8" selfTime="10" lineNumber="-1" percent="0.0">
+        <node leaf="true" class="java.awt.Canvas" time="17" count="8" selfTime="17" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="true" class="java.awt.BorderLayout" time="14" count="4" selfTime="14" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="java.awt.Choice" time="14" count="16" selfTime="14" lineNumber="-1" percent="0.0"/>
+      <node leaf="false" class="CH.ifa.draw.figures.AttributeFigure" time="11" count="20" selfTime="6" lineNumber="-1" percent="0.0">
+        <node leaf="false" class="CH.ifa.draw.figures.FigureAttributes" time="5" count="20" selfTime="1" lineNumber="-1" percent="0.0">
+          <node leaf="true" class="java.util.Hashtable" time="4" count="20" selfTime="4" lineNumber="-1" percent="0.0"/>
+        </node>
+      </node>
+      <node leaf="true" class="java.awt.Button" time="11" count="4" selfTime="11" lineNumber="-1" percent="0.0"/>
+      <node leaf="true" class="CH.ifa.draw.standard.BufferedUpdateStrategy" time="8" count="4" selfTime="8" lineNumber="-1" percent="0.0"/>
+      <node leaf="false" class="CH.ifa.draw.standard.FigureEnumerator" time="1" count="4" selfTime="0" lineNumber="-1" percent="0.0">
+        <node leaf="true" class="java.util.Enumeration" time="1" count="4" selfTime="1" lineNumber="-1" percent="0.0"/>
+      </node>
+      <node leaf="true" class="CH.ifa.draw.standard.ToolButton" time="1" count="8" selfTime="1" lineNumber="-1" percent="0.0"/>
+    </node>
+    <node leaf="true" class="CH.ifa.draw.samples.javadraw.JavaDrawApplet" time="1928" count="3" selfTime="1928" lineNumber="-1" percent="0.1"/>
+  </node>
+</tree>
